@@ -1,0 +1,17 @@
+#content {
+   padding: 4%;
+   border: 2px solid lightgray;
+   border-radius: 3px;
+   margin-bottom: 2%;
+ }
+
+
+.remover{
+   border: none;
+   outline: none;
+   box-shadow: none;
+   border-radius: 3px;
+   color: aliceblue;
+   background-color: #a94442;
+   float: right;
+}
